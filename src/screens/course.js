@@ -81,14 +81,12 @@ const styles = StyleSheet.create({
     paddingVertical: 15,
     color: "black",
     fontWeight: "700",
-    fontFamily: "Poppins",
   },
   txt2: {
     fontSize: 14,
     color: "black",
     padding: 10,
     textAlign: "center",
-    fontFamily: "cursive",
   },
   btn: {
     // width: "fit-content",

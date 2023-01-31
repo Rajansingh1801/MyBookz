@@ -42,7 +42,6 @@ const styles = StyleSheet.create({
     color: "white",
     textAlign: "center",
     fontSize: 36,
-    fontFamily: "Poppins",
     paddingVertical: 15,
   },
   // imgcontainer: {
@@ -56,7 +55,6 @@ const styles = StyleSheet.create({
   txt2: {
     textAlign: "center",
     fontSize: 24,
-    // fontFamily: "cursive",
     fontWeight: "400",
     color: "white",
   },
